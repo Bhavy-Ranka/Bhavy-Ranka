@@ -1,5 +1,6 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&show=prs_merged,prs_merged_percentage)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavy-Ranka&show_icons=true&show=prs_merged,prs_merged_percentage)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavy-Ranka&layout=compact)
 <!--
 **Bhavy-Ranka/Bhavy-Ranka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
